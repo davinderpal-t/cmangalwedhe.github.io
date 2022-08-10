@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.selected {
+    color: white !important;
+}
+
+ul {
+    margin-left: 2%;
+}
+
+footer {
+    display:table;
+    position: absolute;
+    bottom: 0;
+    background-color: #343a40;
+    color: white;
+    width: 100%;
+    padding: 0.75%;
+}
+
+footer p {
+    display: table-cell;
+}
